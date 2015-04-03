@@ -1,0 +1,16 @@
+/*
+Theme Name: Inpsyre
+Theme URI: http://inspyregroup.com
+Description: A Modular Theme.
+Author: Nicholas Koskowski, Inspyre Group
+Version: 1.0
+Tags: awesome
+*/
+.BuildPreview .header {display: none !important;} 
+.content .section-partial {display: none !important;} 
+body.BuildPreview {background: transparent;} 
+.content {border: 0; box-shadow: 0 0 0px rgba(0,0,0,0.2); width: 100%; max-width: 484px; margin: auto;} 
+.container {width: 100%; margin-top: 0;}
+#iPhonePreview { background: url(https://static.apptive.com/images/iPhoneBackground.png) no-repeat !important; }
+#iPadPreview { background: url(https://static.apptive.com/images/iPadBackground.png) no-repeat; }
+
